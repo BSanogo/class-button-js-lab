@@ -23,7 +23,7 @@
 ### Challenge 1: Are you listening?
 
 The linked JS file currently prints a variation of the "button clicked" message every time you press one of the five buttons.
-Code event listeners for the other five buttons and make sure they all work. 
+Code event listeners for the other four buttons and make sure they all work. 
 
 ### Challenge 2: Add a class
 
